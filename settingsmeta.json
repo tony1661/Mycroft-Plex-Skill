@@ -1,0 +1,15 @@
+{
+    "name": "Plex Controller",
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Server Info",
+                "fields": [
+                    {
+                        "name": "X-Plex-Token"
+                    }
+                ]
+            }
+        ]
+    }
+}
