@@ -6,7 +6,7 @@ A custom Mycroft skill I created to control my plex server.
 
 ## Configurations
 To get your Movies and TV ID numbers use the following command:
-* curl --request GET "http://192.168.88.22:32400/library/sections?X-Plex-Token=aW9gR8bPYbbpsQzZ3m7q"
+* curl --request GET "http://ip-address:32400/library/sections?X-Plex-Token=token"
 
 ## Examples 
 * "Refresh Plex"
