@@ -7,9 +7,10 @@ A custom Mycroft skill I created to control my plex server.
 ## Installation
 Installation can be done through the mycroft website or via the linux shell:
 
-> cd /opt/mycroft/skills/
-> git clone https://github.com/tony1661/Mycroft-Plex-Skill.git
-> 
+cd /opt/mycroft/skills/
+git clone https://github.com/tony1661/Mycroft-Plex-Skill.git
+sudo chown mycroft:mycroft Mycroft-Plex-Skill/*
+
 
 ## Configurations
 To get your Movies and TV ID numbers use the following command:
